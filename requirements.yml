@@ -1,0 +1,14 @@
+name: gentl_env
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.10
+  - numpy=1.26.3
+  - pandas=2.2.0
+  - scikit-learn=1.4.2
+  - matplotlib=3.8.2
+  - seaborn=0.13.2
+  - pytorch=2.2.0
+  - ipykernel

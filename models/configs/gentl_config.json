@@ -1,0 +1,15 @@
+{
+    "lookback": 96,
+    "forecast_horizon": 16,
+    "num_layers": 3,
+    "hidden_size": 125,
+    "batch_size": 256,
+    "learning_rate": 0.0012,
+    "dataloader_shuffle": true,
+    "dropout": 0.0,
+    "target_name": ["thermalZoneTAir"],
+    "feature_cols": ["u", "weaBusHDifHor", "weaBusHDirNor", "weaBusTDryBul", "thermalZoneTAir"],
+    "dataframe_limit": null,
+    "use_amp": false,
+    "save_best_val": true
+}

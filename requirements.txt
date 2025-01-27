@@ -1,0 +1,10 @@
+# List of requirements to start the timeseries project. Python 3.10 is assumed to already be installed.
+numpy==1.26.3
+pandas==2.2.0
+scikit-learn==1.4.2
+torch==2.2.0
+ipykernel
+
+# For plots
+matplotlib==3.8.2
+seaborn==0.13.2

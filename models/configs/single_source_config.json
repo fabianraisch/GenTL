@@ -1,0 +1,17 @@
+{
+    "lookback": 96,
+    "forecast_horizon": 16,
+    "num_layers": 2,
+    "hidden_size": 125,
+    "batch_size": 128,
+    "learning_rate": 0.001,
+    "dataloader_shuffle": true,
+    "train_split": 0.7,
+    "val_split": 0.15,
+    "target_name": ["thermalZoneTAir"],
+    "feature_cols": ["u","weaBusHDifHor", "weaBusHDirNor", "weaBusTDryBul", "thermalZoneTAir"],
+    "dataframe_limit": null,
+    "use_amp": true,
+    "scale_target": true,
+    "save_best_val": true
+}

@@ -1,0 +1,14 @@
+{
+    "__Uext_0.1_Hcap_300000_Fawin_0.2_W_Belgrade_2years_L_6.csv": {
+        "data/seq_len": 54,
+        "model/hidden_size": 59,
+        "model/num_layers": 1,
+        "dataloader/batch_size": 104
+    },
+    "__Uext_0.7_Hcap_300000_Fawin_0.2_W_Zurich_2years_L_6.csv": {
+        "data/seq_len": 23,
+        "model/hidden_size": 106,
+        "model/num_layers": 3,
+        "dataloader/batch_size": 65
+    }
+}
