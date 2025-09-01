@@ -1,6 +1,6 @@
 # GenTL 
 
-This repository provides the code for the paper **GenTL: A General Transfer Learning Model for Building Thermal Dynamics**, available on [ArXiv](http://arxiv.org/abs/2501.13703) and soon in the ACM Digital Library. Below are instructions for using the code.
+This repository provides the code for the paper **GenTL: A General Transfer Learning Model for Building Thermal Dynamics**, available on the [ACM Digital Library]([http://arxiv.org/abs/2501.13703](https://dl.acm.org/doi/full/10.1145/3679240.3734589)). Below are instructions for using the code.
 
 ### Getting Started
 
